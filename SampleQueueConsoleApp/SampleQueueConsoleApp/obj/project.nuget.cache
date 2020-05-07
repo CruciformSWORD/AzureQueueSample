@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "3V1WrKUIC10OMpS9N4Zhj2N6vpCf8Y5lI4yKW7o2vmGACYD5WSbCQsHkd52GDfzI0t5SxAP0s2wzrsVqZLWOGw==",
+  "success": true,
+  "projectFilePath": "E:\\GitRepos\\AzureQueueSample\\AzureQueueSample\\SampleQueueConsoleApp\\SampleQueueConsoleApp\\SampleQueueConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Colin\\.nuget\\packages\\azure.core\\1.1.0\\azure.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\Colin\\.nuget\\packages\\azure.storage.common\\12.3.0\\azure.storage.common.12.3.0.nupkg.sha512",
+    "C:\\Users\\Colin\\.nuget\\packages\\azure.storage.queues\\12.3.0\\azure.storage.queues.12.3.0.nupkg.sha512",
+    "C:\\Users\\Colin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Colin\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Colin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Colin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Colin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Colin\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
